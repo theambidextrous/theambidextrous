@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juma alias @theambidextrous
-- 👀 I’m interested in reading code
+- 👀 I’m interested in writing code
 - 🌱 I’m currently learning me
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me idd.otuya@outlook.com
