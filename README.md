@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juma alias @theambidextrous
-- 👀 I’m interested in writing code
-- 🌱 I’m currently learning me
+- 👀 I’m expert in writing code
+- 🌱 I’m currently learning me & AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me idd.otuya@outlook.com
 
